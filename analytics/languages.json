@@ -53,13 +53,13 @@
     },
     "percentage": [
       {
-        "Go": 9.04,
-        "Shell": 0.66,
+        "Go": 9.09,
+        "Shell": 0.67,
         "JavaScript": 12.88,
         "Java": 2.54,
         "C#": 1.59,
-        "Python": 16.84,
-        "TypeScript": 12.43,
+        "Python": 16.83,
+        "TypeScript": 12.42,
         "Batchfile": 0.0,
         "HTML": 0.87,
         "CSS": 1.26,
@@ -67,7 +67,7 @@
         "SCSS": 0.7,
         "Dockerfile": 0.04,
         "Perl": 0.51,
-        "C": 9.47,
+        "C": 9.46,
         "C++": 3.47,
         "CMake": 0.06,
         "XSLT": 0.1,
@@ -76,7 +76,7 @@
         "Ruby": 0.82,
         "PHP": 8.13,
         "Blade": 0.02,
-        "Rust": 2.77,
+        "Rust": 2.76,
         "Handlebars": 0.03,
         "PLpgSQL": 0.0,
         "PowerShell": 0.01,
@@ -636,6 +636,6 @@
   },
   "metadata": {
     "total": 49,
-    "update_at": "2026-02-13T14:19:17Z"
+    "update_at": "2026-02-15T09:30:32Z"
   }
 }

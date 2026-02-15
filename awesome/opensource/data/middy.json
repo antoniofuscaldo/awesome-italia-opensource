@@ -19,7 +19,7 @@
       "full_name": "middyjs/middy",
       "html_url": "https://github.com/middyjs/middy",
       "created_at": "2017-08-03T14:59:07Z",
-      "updated_at": "2026-02-13T02:00:04Z",
+      "updated_at": "2026-02-14T04:45:08Z",
       "pushed_at": "2026-02-13T02:00:08Z",
       "archived": false,
       "disabled": false,
@@ -61,14 +61,14 @@
         "CSS": 2617,
         "Shell": 66
       },
-      "stargazers_count": 3894,
+      "stargazers_count": 3893,
       "forks_count": 390,
       "open_issues_count": 10,
       "forks": 390,
       "open_issues": 10,
-      "watchers": 3894,
-      "updated_at": "2026-02-13T14:19:17Z"
+      "watchers": 3893,
+      "updated_at": "2026-02-15T09:30:32Z"
     },
-    "timestamp": "2026-02-13T14:19:17Z"
+    "timestamp": "2026-02-15T09:30:32Z"
   }
 }
