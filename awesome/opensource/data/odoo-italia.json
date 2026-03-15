@@ -17,8 +17,8 @@
       "full_name": "OCA/l10n-italy",
       "html_url": "https://github.com/OCA/l10n-italy",
       "created_at": "2014-06-09T14:08:49Z",
-      "updated_at": "2026-02-13T18:20:46Z",
-      "pushed_at": "2026-02-13T09:37:07Z",
+      "updated_at": "2026-03-12T15:26:14Z",
+      "pushed_at": "2026-03-12T20:21:20Z",
       "archived": false,
       "disabled": false,
       "owner": "OCA",
@@ -33,29 +33,29 @@
     "analytics": {
       "language": "Python",
       "languages": {
-        "Python": 70.71,
-        "HTML": 22.97,
-        "XSLT": 5.41,
-        "JavaScript": 0.44,
-        "CSS": 0.28,
-        "SCSS": 0.19
+        "Python": 70.22,
+        "HTML": 23.7,
+        "XSLT": 5.21,
+        "JavaScript": 0.42,
+        "CSS": 0.27,
+        "SCSS": 0.18
       },
       "languages_byte": {
-        "Python": 1463797,
-        "HTML": 475517,
+        "Python": 1509206,
+        "HTML": 509415,
         "XSLT": 112080,
         "JavaScript": 9100,
         "CSS": 5699,
         "SCSS": 3841
       },
       "stargazers_count": 204,
-      "forks_count": 332,
-      "open_issues_count": 363,
-      "forks": 332,
-      "open_issues": 363,
+      "forks_count": 335,
+      "open_issues_count": 366,
+      "forks": 335,
+      "open_issues": 366,
       "watchers": 204,
-      "updated_at": "2026-02-15T09:30:32Z"
+      "updated_at": "2026-03-15T09:32:35Z"
     },
-    "timestamp": "2026-02-15T09:30:32Z"
+    "timestamp": "2026-03-15T09:32:35Z"
   }
 }
