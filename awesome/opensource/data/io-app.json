@@ -19,8 +19,8 @@
       "full_name": "pagopa/io-app",
       "html_url": "https://github.com/pagopa/io-app",
       "created_at": "2017-04-11T09:34:46Z",
-      "updated_at": "2026-09-15T10:22:37Z",
-      "pushed_at": "2026-09-15T14:11:50Z",
+      "updated_at": "2026-09-22T11:06:17Z",
+      "pushed_at": "2026-09-22T12:45:57Z",
       "archived": false,
       "disabled": false,
       "owner": "pagopa",
@@ -38,35 +38,35 @@
     "analytics": {
       "language": "TypeScript",
       "languages": {
-        "TypeScript": 98.34,
-        "JavaScript": 0.58,
+        "TypeScript": 98.31,
+        "JavaScript": 0.6,
         "HTML": 0.5,
         "Python": 0.21,
-        "Kotlin": 0.12,
+        "Kotlin": 0.11,
         "Shell": 0.1,
         "Ruby": 0.09,
         "Swift": 0.06,
         "Objective-C": 0.01
       },
       "languages_byte": {
-        "TypeScript": 14688946,
-        "JavaScript": 86861,
-        "HTML": 74161,
-        "Python": 31745,
-        "Kotlin": 17618,
+        "TypeScript": 14753797,
+        "JavaScript": 90786,
+        "HTML": 74955,
+        "Python": 32035,
+        "Kotlin": 17254,
         "Shell": 14972,
         "Ruby": 13448,
         "Swift": 8630,
         "Objective-C": 940
       },
-      "stargazers_count": 701,
-      "forks_count": 120,
-      "open_issues_count": 73,
-      "forks": 120,
-      "open_issues": 73,
-      "watchers": 701,
-      "updated_at": "2026-09-15T14:09:41Z"
+      "stargazers_count": 702,
+      "forks_count": 121,
+      "open_issues_count": 67,
+      "forks": 121,
+      "open_issues": 67,
+      "watchers": 702,
+      "updated_at": "2026-09-22T12:57:38Z"
     },
-    "timestamp": "2026-09-15T14:09:41Z"
+    "timestamp": "2026-09-22T12:57:38Z"
   }
 }
